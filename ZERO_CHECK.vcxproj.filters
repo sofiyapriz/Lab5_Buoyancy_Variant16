@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\admin\source\repos\Lab5_Buoyancy_Variant16\build\CMakeFiles\b6365b8e7285d09d5fe32cab92b1bd9c\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6A4A0BDA-2E37-3C4C-B657-AEE72560F654}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
